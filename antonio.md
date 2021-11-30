@@ -19,3 +19,5 @@ This is how you highlight `GitHub`
 ```
 This is how you highlight an entire body of text
 ```
+
+[This is how you add a hyperlink](https://github.com/learn-academy-2021-echo/Syllabus)
